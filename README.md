@@ -1,42 +1,58 @@
 # Alumni Connect
 
-A web application concept for connecting students and alumni through a shared platform for networking, communication, and professional interaction.
+A community platform concept for connecting students and alumni through profiles, networking, communication, groups, and events.
 
-## Overview
+## Vision
 
-The project is part of my web development practice and explores how a focused community platform can organize alumni relationships and provide a foundation for future career-oriented features.
+**Connect → Engage → Thrive**
 
-## Project Goals
+The project explores how a focused alumni platform can support professional networking and create a foundation for mentorship and career opportunities.
 
-- Provide a central place for alumni and students to connect
-- Support profile-driven discovery
-- Create a foundation for communication and networking
-- Practice modern frontend application development
+## Core Areas
+
+- Alumni and student profiles
+- Profile discovery
+- Connections
+- Posts and groups
+- Events and RSVP
+- Messaging
+- Directory
+- Role-based administration
+
+## Technology Direction
+
+The project is part of my web-development learning path and explores frontend application design, API integration, data modelling, authentication, and community-oriented product features.
 
 ## Getting Started
-
-Clone the repository and install the project dependencies defined by the application.
 
 ```bash
 git clone https://github.com/majordevbhargav/Alumni-connect.git
 cd Alumni-connect
 ```
 
-Refer to the project configuration files for the available development commands.
+Use the project configuration files for the available development commands and environment setup.
+
+## What I Am Learning
+
+- Full-stack application structure
+- User-centric product design
+- Community workflows
+- Authentication and authorization concepts
+- Database-backed features
+- Modern frontend development
 
 ## Future Direction
 
-- Authentication and role-based access
-- Alumni profiles and search
-- Messaging and networking
-- Events and announcements
+- Production authentication
+- Alumni search and filters
 - Mentorship workflows
 - Job and internship opportunities
-- Persistent backend storage
+- Improved messaging
+- Event management
+- Persistent backend services
 
 ## Author
 
 **Dev Bhargav**
 
-- GitHub: https://github.com/majordevbhargav
-- LinkedIn: https://www.linkedin.com/in/devbhargav100
+[GitHub](https://github.com/majordevbhargav) · [LinkedIn](https://www.linkedin.com/in/devbhargav100)
